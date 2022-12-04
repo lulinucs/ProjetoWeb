@@ -31,5 +31,13 @@ export default [
     cargahoraria: '10 horas',
     remuneracao: 'R$17,50/h',
     descricao: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sollicitudin pulvinar enim, maximus hendrerit ligula ornare id. Maecenas imperdiet vestibulum justo eget pharetra. Aliquam congue dapibus neque quis facilisis. Ut bibendum laoreet lorem. '},
-
+    {id: 4, 
+        nome: 'Novo Evento', 
+        setor: 'Caixa Fixo',
+        data: '08/03/2023', 
+        hora: '17:00',
+        cargahoraria: '10 horas',
+        remuneracao: 'R$17,50/h',
+        descricao: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sollicitudin pulvinar enim, maximus hendrerit ligula ornare id. Maecenas imperdiet vestibulum justo eget pharetra. Aliquam congue dapibus neque quis facilisis. Ut bibendum laoreet lorem. '},
+    
 ]
